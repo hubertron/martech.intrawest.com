@@ -8,7 +8,7 @@ A simple layout to host richer web versions of our monthly Marketing Technology 
 ## Installation / Access
 
 - [Fork this repository][fork]
-- Clone it: `git clone https://github.com/`
+- Clone it: `git clone https://github.com/hubertron/martech.intrawest.com`
 - Install the [GitHub Pages gem][pages] (includes Jekyll): `bundle install`
 - Run the jekyll server: `jekyll serve`
 

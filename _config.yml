@@ -3,3 +3,5 @@ highlighter: pygments
 url: https://martech.intrawest.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+permalink: /:categories/:year/:title.html
